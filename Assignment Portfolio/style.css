@@ -1,0 +1,28 @@
+/* Simple styling for your portfolio */
+body {
+    font-family: Arial, sans-serif; /* clean font */
+    text-align: center;             /* center headings, paragraphs, buttons */
+    margin: 20px;                   /* space around content */
+}
+
+h1, h2 {
+    color: #333;                    /* dark grey headings */
+}
+
+ul {
+    list-style: none; /* remove bullets */
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;   /* space between list items */
+}
+
+a {
+    color: #0066cc;           /* blue links */
+    text-decoration: none;    /* remove underline */
+}
+
+a:hover {
+    text-decoration: underline; /* underline on hover for clarity */
+}
