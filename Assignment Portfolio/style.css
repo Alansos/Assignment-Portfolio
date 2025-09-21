@@ -1,28 +1,29 @@
-/* Simple styling for your portfolio */
+
 body {
-    font-family: Arial, sans-serif; /* clean font */
-    text-align: center;             /* center headings, paragraphs, buttons */
-    margin: 20px;                   /* space around content */
+    font-family: Arial, sans-serif; 
+    text-align: center;             
+    margin: 20px;                   
 }
 
 h1, h2 {
-    color: #333;                    /* dark grey headings */
+    color: #333;                    
 }
 
 ul {
-    list-style: none; /* remove bullets */
+    list-style: none;
     padding: 0;
 }
 
 li {
-    margin: 10px 0;   /* space between list items */
+    margin: 10px 0;  
 }
 
 a {
-    color: #0066cc;           /* blue links */
-    text-decoration: none;    /* remove underline */
+    color: #0066cc;           
+    text-decoration: none;    
 }
 
 a:hover {
-    text-decoration: underline; /* underline on hover for clarity */
+    text-decoration: underline; 
 }
+
